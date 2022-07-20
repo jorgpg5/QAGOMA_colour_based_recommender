@@ -13,7 +13,7 @@ Then, to run the application, open a terminal in the location where you cloned t
 
 Then:
 
-**python app_similar_colours.py**
+**streamlit run app_similar_colours.py**
 
 You're good to go! Upload an image from your PC to see the results.
 

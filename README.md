@@ -17,4 +17,4 @@ Then:
 
 You're good to go! Upload an image from your PC to see the results.
 
-![Image](https://github.com/jorgpg5/QAGOMA_colour_based_recommender/blob/main/assets/results_example.jpg)
+![image](https://user-images.githubusercontent.com/70129680/179890326-a659fa86-3119-49d1-bc27-f55a6980458d.png)
